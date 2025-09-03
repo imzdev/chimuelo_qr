@@ -101,6 +101,7 @@ body {
 
 .swiper-pagination {
     margin-top: 15px;
+    display: none;
 }
 
 .swiper-container .swiper-pagination-bullet {
